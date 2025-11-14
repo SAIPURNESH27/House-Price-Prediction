@@ -9,7 +9,8 @@ This is a machine learning project that predicts house prices using the classic 
 * **Regularized Model:** Uses a **Ridge (L2) Regression** model, which was chosen over a standard Linear Regression to prevent overfitting and ensure more reliable predictions on new data.
 
 ## 📸 App Demo
-
+![My App Demo](demo.png)
+![My App Output](output.png)
 
 ## 💡 Model Details
 
