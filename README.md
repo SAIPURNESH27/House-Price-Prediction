@@ -36,5 +36,5 @@ Follow these steps to get the app running on your local machine.
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/SAIPURNESH27/House-Price-Prediction.git](https://github.com/SAIPURNESH27/House-Price-Prediction.git)
 cd your-repo-name# House-Price-Prediction
